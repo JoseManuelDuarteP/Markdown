@@ -1,7 +1,7 @@
 # Título principal
 ### Subtítulo
 **Negrita** *Cursiva* `codigo`
-`<table id="producttable">
+```<table id="producttable">
   <thead>
     <tr>
       <td>UPC_Code</td>
@@ -19,4 +19,4 @@
     <td></td>
   </tr>
 </template>
-`
+```
