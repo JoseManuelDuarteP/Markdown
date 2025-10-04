@@ -29,4 +29,13 @@
 - Segundo
 - Tercero
 
-[title](https://www.google.com)
+[Google](https://www.google.com)
+
+[Otro .md](otromd.md)
+
+![Snake](https://sm.ign.com/t/ign_es/articlepage/s/snake-wont-really-speak-much-at-all-in-metal-gear/snake-wont-really-speak-much-at-all-in-metal-gear_xk3t.1280.jpg)
+
+| Numero | Nombre |
+|--------|--------|
+| 1      | Uno    |
+| 2      | Dos    |
